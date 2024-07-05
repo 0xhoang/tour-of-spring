@@ -1,4 +1,4 @@
-package com.xhoang.tourofspring.controller;
+package com.xhoang.tourofspring.serializers;
 
 public class Greeting {
 
